@@ -1,7 +1,7 @@
 <!-- # [WhatsApp Instant Chat](https://whatsapp-chat.netlify.com/) -->
 # WhatsApp Instant Chat
 
-> Whatsapp Instant Chat with Vuejs
+> WebApp sederhana untuk mengirim pesan ke nomor whatsapp tanpa harus menambahkannya sebagai kontak di buku telepon.
 
 ## Install
 

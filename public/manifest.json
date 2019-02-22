@@ -1,6 +1,6 @@
 {
-  "name": "app-whatsapp-url",
-  "short_name": "app-whatsapp-url",
+  "name": "whatsapp-chat",
+  "short_name": "whatsapp-chat",
   "icons": [
     {
       "src": "/img/icons/android-chrome-192x192.png",
