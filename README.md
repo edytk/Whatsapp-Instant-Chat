@@ -6,8 +6,8 @@
 ## Install
 
 ```bash
-git clone https://github.com/edytk/Whatsapp-Instant-Chat-with-Vuejs
-cd app-whatsapp-url/
+git clone https://github.com/edytk/Whatsapp-Instant-Chat
+cd Whatsapp-Instant-Chat
 yarn install
 yarn serve
 ```

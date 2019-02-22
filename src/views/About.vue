@@ -3,7 +3,7 @@
     <page-header :pageTitle="`Whatsapp Instant Chat`"/>
 
     <h3>Apasih ini?</h3>
-    <p>Website ini adalah WebApp sederhana menggunakan VueJS sebagai teknologi dan untuk tujuan studi. Kode ini open-source dan dapat ditemukan di <a href="https://github.com/edytk/Whatsapp-Instant-Chat-with-Vuejs" target="_blank">Github</a>.</p>
+    <p>Website ini adalah WebApp sederhana menggunakan VueJS sebagai teknologi dan untuk tujuan studi. Kode ini open-source dan dapat ditemukan di <a href="https://github.com/edytk/Whatsapp-Instant-Chat" target="_blank">Github</a>.</p>
 
     <p>Tujuan dari web ini adalah untuk dapat mengirim pesan ke nomor whatsapp tanpa harus menambahkannya sebagai kontak di buku telepon.</p>
 
